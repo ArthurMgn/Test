@@ -1,1 +1,5 @@
-this text is the eightieth thousand test
+<<<<<<< HEAD
+This text is the eightieth thousand test
+=======
+This text is a test
+>>>>>>> parent of 90c8225 (test)

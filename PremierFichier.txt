@@ -1,3 +1,0 @@
-<<<<<<< HEAD
-This text is a test
->>>>>>> parent of 27adafc (test)

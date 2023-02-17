@@ -1,1 +1,1 @@
-This is a test2 of the revert command
+This : it's a test2 of the revert command
